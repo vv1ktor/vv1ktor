@@ -1,4 +1,4 @@
-<img src="peepoHey.gif" width="70" height="70"/>
+<img src="https://cdn.betterttv.net/emote/5c0e1a3c6c146e7be4ff5c0c/3x" width="70" height="70"/>
 
 :wave: Hi! My name is Wiktor and I'm a high school student learning iOS app developement, working on a personal projects and ocasionally streaming my coding endeavours on [Twitch](https://twitch.tv/wictorious).
 
