@@ -5,9 +5,7 @@
 ### Plans for 2020 (more or less real to accomplish)
 
 - [x] Start working on a startup! :man_technologist:
-- [ ] Get decent scores on *SSAT and TOEFL* to start studying abroad next year :books:
-- [ ] Create and grow a tech startup with my classmate @smalinka :memo:
-- [ ] Start giving math lectures in my primary school to enhance younger students' natural curiosity for sciences :man_teacher:
+- [ ] Create and grow a tech startup :memo:
 - [ ] Dive into open-source community and *contribute* more :speech_balloon:
 
 ### Wanna talk? :beverage_box:
