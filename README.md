@@ -2,7 +2,7 @@
 
 :wave: Hi! My name is Wiktor and I'm a high school student learning iOS app developement, working on a personal projects and ocasionally streaming my coding endeavours on [Twitch](https://twitch.tv/wictorious).
 
-### Plans for 2020 (more or less real to accomplish)
+### Plans for 2021 (more or less real to accomplish)
 
 - [x] Start working on a startup! :man_technologist:
 - [ ] Create and grow a tech startup :memo:
