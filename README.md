@@ -7,7 +7,7 @@
 My native language is :poland: but I also speak :us: <br>
 @ me or DM me on [Twitter](https://twitter.com/simplywiktor). <br>
 
-**Have a nice day!** 🤙🏻 <br> <br>
+**Have a nice day!** 🤙🏻 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vv1ktor&count_private=true&hide=stars&show_icons=true&theme=dark" />
 
