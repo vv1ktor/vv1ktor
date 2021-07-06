@@ -1,6 +1,6 @@
 <img src="https://cdn.betterttv.net/emote/5ec1d9739af1ea16863b4bbf/3x" width="70" height="70"/> <img src="https://cdn.betterttv.net/emote/5fc284f42d6c386f224adbb7/3x" width="70" height="70"/>
 
-:wave: Hi! My name is Wiktor, and I'm a high school student mainly doing iOS development working on personal and commercial projects.
+:wave: Hi! My name is Wiktor, and I'm a high school student mainly doing iOS development working on personal and commercial projects. I'm also a [HackClub](https://hackclub.com) leader at my high school.
 
 ### Wanna talk? :beverage_box:
 
