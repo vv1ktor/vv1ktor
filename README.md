@@ -4,9 +4,7 @@
 
 ### Wanna talk? :beverage_box:
 
-My native language is :poland: but I also speak :us: <br>
-@ me or DM me on [Twitter](https://twitter.com/simplywiktor). <br>
+Email me at wiktor@duck.com.
 
-**Have a nice day!** 🤙🏻 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vv1ktor" alt="vv1ktor" /> <a href="https://twitter.com/simplywiktor"><img href="https://twitter.com/simplywiktor" src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg></a> </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vv1ktor&count_private=true&hide=stars&show_icons=true&theme=dark" />
