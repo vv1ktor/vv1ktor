@@ -1,4 +1,4 @@
-<img src="https://cdn.7tv.app/emote/60b239877e6072867b322be9/4x" width="70" height="70"/> <img src="https://cdn.betterttv.net/emote/5fc284f42d6c386f224adbb7/3x" width="70" height="70"/>
+<img src="https://cdn.7tv.app/emote/60b239877e6072867b322be9/4x.webp" width="70" height="70"/> <img src="https://cdn.betterttv.net/emote/5fc284f42d6c386f224adbb7/3x" width="70" height="70"/>
 
 my [shenanigans](https://wiktor.read.cv). oh, and here's [linkedin](https://linkedin.com/in/simplywiktor). currently ~~slightly~~ very dormant due to college apps.
 
